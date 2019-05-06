@@ -1,0 +1,87 @@
+DevCheck Report
+
+Samsung
+Galaxy S8
+
+März 23, 2019 1:57
+Laufzeit: 3d 21h 37m 20s
+Tiefschlaf: 2d 13h 26m 34s (65%)
+
+HARDWARE
+Samsung Exynos 9 Octa
+Hardware: universal8895
+Kerne: 8
+CPU:
+4 x Cortex-A53
+4 x Exynos M2
+Prozess: 10 nm
+Frequenzen:
+455 MHz - 1690 MHz
+741 MHz - 2314 MHz
+Governor: interactive
+
+GRAFIK 
+Anbieter: ARM
+GPU: Mali-G71
+OpenGL: OpenGL ES 3.2 v1.r9p0-01rel0.2498e584901afb9257be0d365ada85fa
+Maximale Frequenz: 546 MHz
+Auflösung: 2220 x 1080
+Rasterdichte: 423.45883 ppi
+Bildschirmgröße: 5.83 in / 148 mm
+
+RAM
+RAM Größe: 4.0 GB
+Modell: LPDDR4X
+Kanäle: 32-bit dual channel
+
+WEITERE HARDWARE
+Bluetooth-Unterstüzung: Ja
+Bluetooth LE Unterstützung: Ja
+USB Host Unterstützung: Ja
+Infrarot-Sender: nein
+NFC Unterstützung: Ja
+
+GERÄT
+Modell: SM-G950F
+Codename: dreamlte
+Hersteller: Samsung
+Herstellungsdatum: Dezember 2, 2017
+Seriennummer: ce0717171de6033702
+Samsung Seriennummer: RF8JC062HAH
+
+SYSTEM
+Android Version: 9 (Android Pie)
+Version: PPR1.180610.011.G950FXXS4DSC2
+ROM Basis: G950FXXS4DSC2
+Sicherheits-Patch-Level: März 1, 2019
+Architektur: aarch64 (64-bit)
+Bedienungsanleitungen: arm64-v8a armeabi-v7a armeabi
+Kernel: 4.4.111-15411975
+
+BATTERIE
+Technologie: Li-ion
+Zustand: Gut
+Kapazität (vom System ermittelt): 3000 mAh
+
+NETZWERK
+MAC Adresse: 24:18:1D:15:39:FC
+5GHz Unterstützung: Ja
+Benutzer: o2 - de
+Telefon: GSM
+Dual-SIM: nein
+
+KAMERA
+Auflösung: 12,2 MP (4032x3024)
+Brennweite: 4.2 mm
+35 mm Äquivalent-Brennweite: 25,8 mm
+Sensor-Größe: 5,64x4,23 mm
+Crop-Faktor: 6,1x
+Sichtfeld: 67,8°
+Pixelgröße: 1,40 μm
+Öffnung: 1.7
+Fokus-Modi: auto, infinity, macro, continuous-video, continuous-picture
+Blitzmodi: off, auto, on, torch
+ISO-Empfindlichkeit: 50-1250
+RAW fähig: Ja
+Bildformat: JPEG
+Front-Kamera: 8,0 MP (3264x2448)

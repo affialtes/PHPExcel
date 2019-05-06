@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Eric Berry
+N;CHARSET=UTF-8:Eric Berry;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;49 Bogart Street Unit 22;Brooklyn;NY;11206;USA
+EMAIL:eric@codefund.io
+ORG;CHARSET=UTF-8:CodeFund
+URL:http://codefund.io
+END:VCARD
